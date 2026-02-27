@@ -66,9 +66,10 @@ const Header = () => {
               </svg>
             </div>
             <div className="hidden md:block">
-              <div className="text-xl font-bold text-primary">SwasthyaSaathi</div>
+              <div className="text-xl font-bold text-primary">SevaaYukti</div>
               <div className="text-sm font-semibold text-secondary odia-text">
-                ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ
+                ସେବା ୟୁକ୍ତି
+              
               </div>
             </div>
           </Link>

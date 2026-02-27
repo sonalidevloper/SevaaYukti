@@ -34,8 +34,8 @@ const Footer = () => {
                 <Heart className="w-6 h-6 text-white" fill="white" />
               </div>
               <div>
-                <div className="text-lg font-bold">SwasthyaSaathi</div>
-                <div className="text-sm odia-text">ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ</div>
+                <div className="text-lg font-bold">SevaaYukti</div>
+                <div className="text-sm odia-text">ସେବା ୟୁକ୍ତି</div>
               </div>
             </div>
             <p className="text-sm text-gray-200 leading-relaxed">
@@ -128,7 +128,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-3 text-sm text-gray-200">
                 <Mail size={18} className="flex-shrink-0 text-primary-light" />
-                <span>support@swasthyasaathi.gov.in</span>
+                <span>support@sevaayukti.gov.in</span>
               </div>
             </div>
           </div>
@@ -162,7 +162,7 @@ const Footer = () => {
         <div className="border-t border-white/20 pt-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-gray-300">
             <div className="text-center md:text-left">
-              © {new Date().getFullYear()} SwasthyaSaathi. All rights reserved.
+              © {new Date().getFullYear()} SevaaYukti. All rights reserved.
             </div>
             <div className="flex items-center gap-2">
               <span>Made with</span>

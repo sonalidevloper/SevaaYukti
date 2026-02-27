@@ -27,7 +27,7 @@ app.use('/api/visits', require('./routes/visits'));
 // Root route
 app.get('/', (req, res) => {
   res.json({ 
-    message: '✅ SwasthyaSaathi Backend API',
+    message: '✅ SevaaYukti Backend API',
     version: '1.0.0',
     endpoints: {
       auth: '/api/auth',

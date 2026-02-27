@@ -10,10 +10,10 @@ const About = () => {
       <div className="container mx-auto px-4 max-w-4xl">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-textDark mb-4">
-            About SwasthyaSaathi
+            About SevaaYukti
           </h1>
           <p className="text-lg text-gray-600 odia-text">
-            ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ ବିଷୟରେ
+            ସେବା ୟୁକ୍ତି ବିଷୟରେ
           </p>
         </div>
 
@@ -26,7 +26,7 @@ const About = () => {
               <h2 className="text-2xl font-bold text-textDark">Our Mission</h2>
             </div>
             <p className="text-gray-600 leading-relaxed">
-              SwasthyaSaathi is an innovative offline-first digital health platform
+              SevaaYukti is an innovative offline-first digital health platform
               designed to empower ASHA workers and improve healthcare delivery in
               rural Odisha. We bridge the gap between technology and grassroots
               healthcare, ensuring that even the most remote villages have access to

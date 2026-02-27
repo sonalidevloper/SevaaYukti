@@ -186,7 +186,7 @@ const ApplyCard = () => {
               Application Submitted Successfully!
             </h1>
             <p className="text-gray-600 mb-6">
-              Your Swasthya Saathi Card application has been received. Your
+              Your Sevaa Yukti Card application has been received. Your
               application ID is:
             </p>
             <div className="inline-block bg-primary/10 px-6 py-3 rounded-lg mb-8">
@@ -260,7 +260,7 @@ const ApplyCard = () => {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-3xl md:text-4xl font-bold text-textDark mb-2">
-            Swasthya Saathi Card Application
+            Sevaa Yukti Card Application
           </h1>
           <p className="text-gray-600">
             Fill in your details to apply for your health card
