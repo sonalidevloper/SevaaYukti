@@ -88,7 +88,7 @@ const Home = () => {
               {t('heroTitle')}
             </h1>
             <div className="text-lg md:text-xl text-gray-600 font-medium odia-text">
-              ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ - ଆପଣଙ୍କର ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ
+              ସେବା ୟୁକ୍ତି - ଆପଣଙ୍କର ସେବା ୟୁକ୍ତି
             </div>
             <p className="text-xl md:text-2xl text-secondary font-semibold">
               {t('heroSubtitle')}

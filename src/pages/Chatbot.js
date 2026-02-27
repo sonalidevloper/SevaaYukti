@@ -37,8 +37,8 @@ const Chatbot = () => {
       id: 1,
       type: 'ai',
       text: language === 'en' 
-        ? "Namaste! I'm your SwasthyaSaathi AI Health Assistant. How can I help you today?" 
-        : "ନମସ୍କାର! ମୁଁ ଆପଣଙ୍କର ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ AI ସହାୟକ | ମୁଁ ଆଜି ଆପଣଙ୍କୁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି?",
+        ? "Namaste! I'm your SevaaYukti AI Health Assistant. How can I help you today?" 
+        : "ନମସ୍କାର! ମୁଁ ଆପଣଙ୍କର ସେବା ୟୁକ୍ତି AI ସହାୟକ | ମୁଁ ଆଜି ଆପଣଙ୍କୁ କିପରି ସାହାଯ୍ୟ କରିପାରିବି?",
       timestamp: new Date(),
     },
   ]);
@@ -318,8 +318,8 @@ const Chatbot = () => {
           id: 1,
           type: 'ai',
           text: language === 'en'
-            ? "Namaste! I'm your SwasthyaSaathi AI Health Assistant. How can I help you today?"
-            : "ନମସ୍କାର! ମୁଁ ଆପଣଙ୍କର ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ AI ସହାୟକ |",
+            ? "Namaste! I'm your SevaaYukti AI Health Assistant. How can I help you today?"
+            : "ନମସ୍କାର! ମୁଁ ଆପଣଙ୍କର ସେବା ୟୁକ୍ତି AI ସହାୟକ |",
           timestamp: new Date(),
         },
       ]);
@@ -399,7 +399,7 @@ const Chatbot = () => {
               </div>
               <div>
                 <h1 className="text-lg font-bold text-textDark">
-                  SwasthyaSaathi AI Assistant
+                  SevaaYukti AI Assistant
                 </h1>
                 <p className="text-xs text-success flex items-center gap-1">
                   <span className="w-2 h-2 bg-success rounded-full"></span>

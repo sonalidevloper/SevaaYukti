@@ -21,10 +21,10 @@ export const translations = {
     home: 'Home',
     
     // Hero Section
-    heroTitle: 'SwasthyaSaathi - Your Health Companion',
+    heroTitle: 'SevaaYukti - Your Health Companion',
     heroSubtitle: 'Empowering Rural Healthcare in Odisha',
     talkToAI: 'Talk to AI Health Assistant',
-    applyForCard: 'Apply for Swasthya Saathi Card',
+    applyForCard: 'Apply for Sevaa Yukti Card',
     
     // Chatbot
     chatPlaceholder: 'Ask about health symptoms, vaccination...',
@@ -123,10 +123,10 @@ export const translations = {
     home: 'ହୋମ୍',
     
     // Hero Section
-    heroTitle: 'ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ - ଆପଣଙ୍କର ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ',
+    heroTitle: 'ସେବା ୟୁକ୍ତି - ଆପଣଙ୍କର ସେବା ୟୁକ୍ତି',
     heroSubtitle: 'ଓଡିଶାରେ ଗ୍ରାମୀଣ ସ୍ୱାସ୍ଥ୍ୟସେବାକୁ ସଶକ୍ତ କରିବା',
     talkToAI: 'AI ସ୍ୱାସ୍ଥ୍ୟ ସହାୟକ ସହିତ କଥା ହୁଅନ୍ତୁ',
-    applyForCard: 'ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ କାର୍ଡ ପାଇଁ ଆବେଦନ କରନ୍ତୁ',
+    applyForCard: 'ସେବା ୟୁକ୍ତି କାର୍ଡ ପାଇଁ ଆବେଦନ କରନ୍ତୁ',
     
     // Chatbot
     chatPlaceholder: 'ସ୍ୱାସ୍ଥ୍ୟ ଲକ୍ଷଣ, ଟୀକାକରଣ ବିଷୟରେ ପଚାରନ୍ତୁ...',

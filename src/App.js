@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { LanguageProvider } from './context/LanguageContext';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Welcome from './pages/Welcome';
 import Home from './pages/Home';
 import Chatbot from './pages/Chatbot';
 import ApplyCard from './pages/ApplyCard';
@@ -25,7 +26,8 @@ function App() {
           <Header />
           <main>
             <Routes>
-              <Route path="/" element={<Home />} />
+              <Route path="/" element={<Welcome />} />
+              <Route path="/home" element={<Home />} />
               <Route path="/chatbot" element={<Chatbot />} />
               <Route path="/apply" element={<ApplyCard />} />
               <Route path="/find-asha" element={<FindAsha />} />
