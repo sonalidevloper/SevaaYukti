@@ -226,13 +226,13 @@ This project is part of a government initiative for rural healthcare in Odisha. 
 
 ## 📞 Contact & Support
 
-- **Email**: support@swasthyasaathi.gov.in
+- **Email**: support@sevaayukti.gov.in
 - **Helpline**: 104 (Toll Free)
-- **Website**: https://swasthyasaathi.gov.in
+- **Website**: https://sevaayukti.gov.in
 
 ---
 
 <div align="center">
   <p>Made with ❤️ for Rural Odisha</p>
-  <p>© 2026 SwasthyaSaathi. All rights reserved.</p>
+  <p>© 2026 SevaaYukti. All rights reserved.</p>
 </div>
