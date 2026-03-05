@@ -1,16 +1,14 @@
-# SwasthyaSaathi - ସ୍ୱାସ୍ଥ୍ୟ ସାଥୀ
+# SevaaYukti - ସେବାୟୁକ୍ତି
+Your Health Companion | Empowering Rural Healthcare in Odisha
 
-**Your Health Companion | Empowering Rural Healthcare in Odisha**
+SevaaYukti is a modern, offline-first digital health platform designed specifically for rural Odisha, India. It empowers ASHA (Accredited Social Health Activist) workers and enables seamless healthcare delivery to remote communities with limited digital literacy and internet connectivity.
 
-SwasthyaSaathi is a modern, offline-first digital health platform designed specifically for rural Odisha, India. It empowers ASHA (Accredited Social Health Activist) workers and enables seamless healthcare delivery to remote communities with limited digital literacy and internet connectivity.
-
-![SwasthyaSaathi Banner](https://via.placeholder.com/1200x400/F7931E/FFFFFF?text=SwasthyaSaathi)
 
 ## 🌟 Features
 
 ### For Citizens
 - **AI Health Chatbot**: Voice-enabled, bilingual (English/Odia) health assistant for symptoms checking and health guidance
-- **Swasthya Saathi Card Application**: Simple, step-by-step application process with voice input support
+- **Sevaa Yukti Card Application**: Simple, step-by-step application process with voice input support
 - **Find Local ASHA Worker**: Search by village, PIN code, or Gram Panchayat
 - **Disease Awareness Hub**: Culturally appropriate health information with audio narration
 - **Bilingual Interface**: Complete support for English and Odia (ଓଡ଼ିଆ) languages
@@ -57,8 +55,8 @@ Error:                     #EF5350
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/swasthyasaathi.git
-   cd swasthyasaathi
+   git clone https://github.com/your-org/SevaaYukti.git
+   cd SevaaYukti
    ```
 
 2. **Install dependencies**
@@ -92,7 +90,7 @@ This creates an optimized production build in the `build` folder.
 | `/find-asha` | Search and find local ASHA workers |
 | `/asha-login` | ASHA worker login (OTP/Biometric) |
 | `/asha-dashboard` | ASHA worker dashboard with patient management |
-| `/about` | About SwasthyaSaathi and mission |
+| `/about` | About SevaaYukti and mission |
 | `/notices` | Notices and health alerts |
 
 ## 🛠️ Technology Stack
@@ -133,6 +131,7 @@ swasthyasaathi/
 │   ├── context/
 │   │   └── LanguageContext.js
 │   ├── pages/
+│   │   ├── Welcome.js
 │   │   ├── Home.js
 │   │   ├── Chatbot.js
 │   │   ├── ApplyCard.js
