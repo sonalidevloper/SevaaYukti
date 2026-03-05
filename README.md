@@ -70,7 +70,7 @@ Error:                     #EF5350
    ```
 
 4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
+   Navigate to [http://localhost:3001](http://localhost:3001)
 
 ### Build for Production
 
