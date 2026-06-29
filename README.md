@@ -213,9 +213,6 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is part of a government initiative for rural healthcare in Odisha. All rights reserved by the Government of Odisha, Health & Family Welfare Department.
 
 ## 🙏 Acknowledgments
 
